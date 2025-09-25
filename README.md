@@ -72,6 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## this is my change
 
 # this is my second change 
@@ -95,3 +96,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### this is my temp change
+=======
+#### this is my first change
+>>>>>>> bdbc4d552825deeaa563bde5b4c5fc22058ce852
