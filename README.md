@@ -85,4 +85,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### this is my second change
+<<<<<<< HEAD
 >>>>>>> 8afe5918 (second change)
+=======
+
+### This is a change in feature branch
+>>>>>>> c8ae0d23 (my first commit from dev)
